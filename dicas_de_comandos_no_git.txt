@@ -1,6 +1,7 @@
 Dicas de comandos no git:
 
 Para verificar o log de commits realizados:
+	git log --oneline
 	git log --pretty="format:%h - %s - %an - %aD"
 
 	https://devhints.io/git-log	
