@@ -1,0 +1,8 @@
+Dicas de comandos no git:
+
+Para verificar o log de commits realizados:
+	git log --pretty="format:%h - %s - %an - %aD"
+
+	https://devhints.io/git-log	
+	https://git-scm.com/book/pt-br/v2/Fundamentos-de-Git-Gravando-Altera%C3%A7%C3%B5es-em-Seu-Reposit%C3%B3rio
+	https://git-scm.com/book/en/v2/Customizing-Git-Git-Configuration
